@@ -1,7 +1,7 @@
 # E-COLLAB
 A project collaboration site.
 
-Website Link: https://collab-8b48e.web.app/login (Hosted using firebase hosting)
+Website Link: https://collab-8b48e.web.app/login (
 
 **ABOUT THE PROJECT**
 - Developed a single page application that allows users to create projects, assign tasks to users, chat with other users and delete projects after completion (CRUD operations) with React as front-end and Firebase as back-end and database.
